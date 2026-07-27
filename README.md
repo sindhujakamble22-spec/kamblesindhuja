@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0004-median-of-two-sorted-arrays) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
