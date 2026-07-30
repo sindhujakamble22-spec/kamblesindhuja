@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
