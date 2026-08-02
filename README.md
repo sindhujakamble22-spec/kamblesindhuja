@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
