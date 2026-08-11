@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0316-remove-duplicate-letters) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
