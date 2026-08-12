@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0066-plus-one) |
+| [0164-maximum-gap](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
