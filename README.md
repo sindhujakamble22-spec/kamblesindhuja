@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0316-remove-duplicate-letters) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
 ## Enumeration
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
