@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
 | [0724-find-pivot-index](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0724-find-pivot-index) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/0204-count-primes) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sindhujakamble22-spec/kamblesindhuja/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Enumeration
 |  |
 | ------- |
